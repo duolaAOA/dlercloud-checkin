@@ -1,0 +1,7 @@
+.idea/
+bin/
+vendor/
+tmp/
+*.swp
+*.log
+go.sum
